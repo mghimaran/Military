@@ -1,0 +1,438 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Material"] = "models/effects/vol_light001",
+						["ClassName"] = "submaterial",
+						["UniqueID"] = "1313676065",
+						["SubMaterialId"] = 1,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ModelIndex"] = 14,
+						["ClassName"] = "bodygroup",
+						["UniqueID"] = "2009524191",
+						["BodyGroupName"] = "facialhair",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "1024577303",
+				["Color"] = Vector(139, 51, 0),
+				["Model"] = "models/lazarusroleplay/heads/male_caucasian.mdl",
+				["Brightness"] = 2.6,
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "right clavicle",
+						["UniqueID"] = "826968683",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "spine 4",
+						["UniqueID"] = "4201970778",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "right forearm",
+						["UniqueID"] = "2361095638",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "spine 2",
+						["UniqueID"] = "4162892654",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "276030144",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "647340260",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "2831263496",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "spine",
+						["UniqueID"] = "2809614219",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "spine 1",
+						["UniqueID"] = "40765802",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "left forearm",
+						["UniqueID"] = "1882536379",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "2723726875",
+				["Model"] = "models/thespireroleplay/humans/group006/male.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["UniqueID"] = "2117134526",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Material"] = "https://cdn.discordapp.com/attachments/458006177977073680/539139410885738546/orc_armor_male_helmet_d2.jpeg",
+				["UniqueID"] = "151864241",
+				["Size"] = 0.55,
+				["EditorExpand"] = true,
+				["Position"] = Vector(6.0904998779297, -4.4694519042969, 0.795166015625),
+				["Model"] = "https://raw.githubusercontent.com/mghimaran/Military/master/HelmetOrc2.obj",
+				["Angles"] = Angle(-88.511283874512, 22.273225784302, 169.90707397461),
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "left thigh",
+						["UniqueID"] = "3298669921",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Material"] = "https://cdn.discordapp.com/attachments/458006177977073680/538855217635131395/handmale.jpeg",
+						["ClassName"] = "submaterial",
+						["UniqueID"] = "2782575886",
+						["SubMaterialId"] = 2,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "right foot",
+						["UniqueID"] = "3674434209",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "right calf",
+						["UniqueID"] = "2174158210",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "left calf",
+						["UniqueID"] = "3722356574",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "right thigh",
+						["UniqueID"] = "3867423848",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "left toe",
+						["UniqueID"] = "883354410",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "left foot",
+						["UniqueID"] = "3564219347",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Material"] = "https://cdn.discordapp.com/attachments/458006177977073680/538854700687032351/upperbodymale3.jpeg",
+						["ClassName"] = "submaterial",
+						["UniqueID"] = "2871685745",
+						["SubMaterialId"] = 1,
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "right toe",
+						["UniqueID"] = "2311658166",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "726740028",
+				["Model"] = "models/thespireroleplay/humans/group100/arms/male_arm.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 8.55,
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "2135416650",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "spine",
+						["UniqueID"] = "2515688452",
+						["HideMesh"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 10,
+						["Bone"] = "spine 2",
+						["UniqueID"] = "1603707322",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 8.55,
+						["Bone"] = "right clavicle",
+						["UniqueID"] = "1603707322",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "spine 1",
+						["UniqueID"] = "3809999783",
+						["HideMesh"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "2040676215",
+				["Size"] = 0.1,
+				["Model"] = "models/thespireroleplay/humans/group011/male_13.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "779337431",
+				["Color"] = Vector(225, 238, 211),
+				["Model"] = "models/thespireroleplay/humans/group100/male.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "454788884",
+						["Event"] = "weapon_class",
+						["Arguments"] = "weapon_bumpersword",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2917414426",
+				["Position"] = Vector(9.0082397460938, -2.31103515625, 0.20458984375),
+				["TextureFilter"] = 2,
+				["Angles"] = Angle(-6.2975478172302, -17.29670715332, 150.34176635742),
+				["Size"] = 0.5,
+				["Material"] = "https://cdn.discordapp.com/attachments/458006177977073680/539142135447027713/Heatershield.jpeg",
+				["ClassName"] = "model",
+				["Bone"] = "left forearm",
+				["Model"] = "https://raw.githubusercontent.com/mghimaran/Military/master/Shield.obj",
+				["EditorExpand"] = true,
+			},
+		},
+		[9] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Material"] = "https://cdn.discordapp.com/attachments/458006177977073680/538862347939348480/headhuman_10.jpeg",
+						["ClassName"] = "submaterial",
+						["UniqueID"] = "1833083962",
+						["SubMaterialId"] = 1,
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "3395196291",
+				["Model"] = "models/lazarusroleplay/heads/male_caucasian.mdl",
+				["Brightness"] = 2.5,
+				["EditorExpand"] = true,
+			},
+		},
+		[10] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "weapon_class",
+						["Arguments"] = "weapon_bumpersword",
+						["UniqueID"] = "3352958234",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "4215340576",
+				["Position"] = Vector(7.7377166748047, -0.6290283203125, 2.7290344238281),
+				["TextureFilter"] = 2,
+				["Angles"] = Angle(-83.337707519531, -153.59585571289, 63.683502197266),
+				["Size"] = 0.5,
+				["Material"] = "https://cdn.discordapp.com/attachments/458006177977073680/539142135447027713/Heatershield.jpeg",
+				["ClassName"] = "model",
+				["Bone"] = "spine 2",
+				["Model"] = "https://raw.githubusercontent.com/mghimaran/Military/master/Shield.obj",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2591287500",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
